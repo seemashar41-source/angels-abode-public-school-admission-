@@ -1,2 +1,108 @@
 # angels-abode-public-school-admission-
 This is only for admission purpose
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Angel's Abode Public School</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+<h1>Angel's Abode Public School</h1>
+<p>Shaping Bright Futures</p>
+</header>
+
+<nav>
+<a href="#about">About Us</a>
+<a href="#features">Why Choose Us</a>
+<a href="#facilities">Facilities</a>
+<a href="#admission">Admissions</a>
+<a href="#contact">Contact</a>
+</nav>
+
+<section class="hero">
+<h2>Welcome to Angel's Abode Public School</h2>
+<p>A place where learning meets excellence and character building.</p>
+<button>Apply for Admission</button>
+</section>
+
+<section id="about">
+<h2>About Our School</h2>
+<p>
+Angel's Abode Public School is committed to providing quality education
+that nurtures creativity, discipline, and leadership. Our goal is to
+develop confident, responsible, and successful students prepared for
+the future.
+</p>
+</section>
+
+<section id="features">
+<h2>Why Choose Us</h2>
+
+<div class="cards">
+
+<div class="card">
+<h3>Experienced Teachers</h3>
+<p>Highly qualified faculty dedicated to student success.</p>
+</div>
+
+<div class="card">
+<h3>Modern Education</h3>
+<p>Smart classrooms and innovative teaching methods.</p>
+</div>
+
+<div class="card">
+<h3>Safe Environment</h3>
+<p>A secure and caring campus for every child.</p>
+</div>
+
+<div class="card">
+<h3>Holistic Development</h3>
+<p>Focus on academics, sports, and creativity.</p>
+</div>
+
+</div>
+</section>
+
+<section id="facilities">
+<h2>Our Facilities</h2>
+
+<ul>
+<li>Smart Classrooms</li>
+<li>Science & Computer Labs</li>
+<li>Library with Rich Collection</li>
+<li>Sports Ground</li>
+<li>Music and Art Rooms</li>
+<li>School Transport</li>
+</ul>
+
+</section>
+
+<section id="admission">
+<h2>Admissions Open</h2>
+<p>
+Admissions are now open for the new academic session.
+Join Angel's Abode Public School and give your child the
+best education and opportunities.
+</p>
+
+<button>Register Now</button>
+
+</section>
+
+<section id="contact">
+<h2>Contact Us</h2>
+<p>Email: info@angelsabode.edu</p>
+<p>Phone: +91 9876543210</p>
+<p>Address: Your School Address Here</p>
+</section>
+
+<footer>
+<p>© 2026 Angel's Abode Public School | All Rights Reserved</p>
+</footer>
+
+</body>
+</html>
